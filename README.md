@@ -30,7 +30,9 @@ This application is using JavaScript functions to display Shopping Items that co
   <img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://user-images.githubusercontent.com/49248131/115799434-57948700-a38d-11eb-9d2b-b0bad9436419.png"/>
 </span>
+
 
 ---
 
