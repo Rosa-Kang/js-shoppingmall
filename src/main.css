@@ -78,6 +78,7 @@ body .buttons .pink {
 body .items {
   width: 60%;
   height: 1000px;
+  overflow-y: hidden;
   list-style: none;
   padding-left: 0;
   margin-bottom: 8px;
