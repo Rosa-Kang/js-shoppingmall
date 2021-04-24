@@ -83,8 +83,11 @@ body .items {
   margin-bottom: 8px;
   overflow-y: scroll;
   overflow-y: scroll;
-  scrollbar-width: none;
-  -ms-overflow-style: none;
+}
+
+body ::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
 }
 
 body .items .item {
