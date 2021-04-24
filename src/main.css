@@ -81,13 +81,7 @@ body .items {
   list-style: none;
   padding-left: 0;
   margin-bottom: 8px;
-  overflow-y: scroll;
-  overflow-y: scroll;
-}
-
-body ::-webkit-scrollbar {
-    width: 0px;
-    background: transparent;
+  overflow-y: auto;
 }
 
 body .items .item {
